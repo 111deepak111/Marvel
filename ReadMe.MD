@@ -24,6 +24,9 @@ What about renewable energy you ask what does that have to with this topic. Well
 - Less maintainence cost
 - Doesn't rely on main power grid
 
-Well, these advantages sure make both EVs and Renewable energy topics enticing and worth looking into.
- 
+Well, these advantages sure make both EVs and Renewable energy topics enticing and worth looking into. And if you want to join hands with us and learn more about these topics then you are more than welcome.
+
+## Course Details
+
+
 
