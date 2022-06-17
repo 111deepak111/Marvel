@@ -1,7 +1,7 @@
 # MARVEL UVCE
 ## presents a course on Electric Vehicles and Renewable Energy
 
-![Marvel EVs image](https://github.com/111deepak111/Marvel/blob/75207d02504330e2ffb91d3dd25bedcba64e3fd7/img1.png)
+<img src="img2.png" alt="MARVEL Electric Vehicles" width="200" height="200"/>
 
 ### Electric Vehicles
 
@@ -14,7 +14,7 @@ Are electric vehicles really as green as they claim to be ? Well, the only way t
 - Better handling and  acceleration 
 - Doesn't emit any pollutants
 
-![Marvel Renewable Energy]()
+<img src="img1.png" alt="MARVEL Renewable Energy" width="200" height="200"/>
 
 ### Renewable Energy
 
