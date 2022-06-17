@@ -31,6 +31,17 @@ What about renewable energy you ask what does that have to with this topic. Well
 Well, these advantages sure make both EVs and Renewable energy topics enticing and worth looking into. And if you want to join hands with us and learn more about these topics then you are more than welcome.
 
 ## Course Details
+Course has 2 levels and is of 6 months duration. You got to have the basic understanding of basic physics and electric current. In order to proceed from one level to another you have to complete the tasks assigned in that level.
 
+##### For more details [Click Here](https://hub.uvcemarvel.in/course/EV-RE-001)
 
+### The topic involved in this course are:
+
+- Energy & electricity
+- Battery Technologies
+- Renewable Energy Sources
+- Solar Panels
+- Electric Vehicles & automobiles
+- Transformers
+- Battery Management System
 
